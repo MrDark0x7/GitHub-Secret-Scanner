@@ -10,6 +10,7 @@ Advanced secret detection tool for GitHub repositories and local filesystems
 
 ## Quick Start
 ```bash
+# Add your Git API
 nano .env
 GH_TOKEN=github_pat_*your_git_api
 
