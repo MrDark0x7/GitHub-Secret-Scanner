@@ -11,7 +11,7 @@ Advanced secret detection tool for GitHub repositories and local filesystems
 ## Quick Start
 ```bash
 nano .env
-#GH_TOKEN=github_pat_*your_git_api
+GH_TOKEN=github_pat_*your_git_api
 
 git clone https://github.com/MrDark0x7/git-secrets-scanner
 cd git-secrets-scanner
